@@ -1,9 +1,10 @@
 <script setup lang="ts">
 import Todos from './components/Todos.vue'
-</script>
-
 import { Authenticator } from "@aws-amplify/ui-vue";
 import "@aws-amplify/ui-vue/styles.css";
+</script>
+
+
 <template>
   <main>
         
